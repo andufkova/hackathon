@@ -17,9 +17,10 @@ TBD - .venv is ready
 ### Option 3: Azure
 
 Azure has a free trial for 30 days/200 USD. You can register with your GitHub or Microsoft account.
+For GPU access, you need to request quota increase. For request quota increase, you need to select resource provider. The process is a bit complicated, so if you wanna use it, prepare it in advance.
 
-Find more info here: 
-https://learn.microsoft.com/en-us/azure/machine-learning/concept-train-machine-learning-model
+You can check this official guide:
+https://learn.microsoft.com/en-us/azure/machine-learning/quickstart-create-resources?view=azureml-api-2
 
 
 ## Useful websites
