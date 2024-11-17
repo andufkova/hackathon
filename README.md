@@ -12,7 +12,15 @@ Colab is a hosted Jupyter Notebook service that requires no setup to use and pro
 
 ### Option 2: Your own device
 
-TBD - .venv is ready
+Create a virtual environment:
+`python3 -m venv venvName`
+
+Activate your virtual environment:
+`source venvName/bin/activate`
+
+Install Python packages:
+`pip install -r requirements.txt`
+
 
 ### Option 3: Azure
 
