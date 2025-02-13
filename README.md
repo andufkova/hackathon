@@ -1,4 +1,4 @@
-# AT&T HACKATHON 2024 - OPEN DATASETS, MODEL TRAINING, DATA ANALYSIS
+# AT&T HACKATHON - OPEN DATASETS, MODEL TRAINING, DATA ANALYSIS
 
 Please, keep in mind that these are just our recommendations and tips. You are free to use whatever technologies and tools you want.
 
