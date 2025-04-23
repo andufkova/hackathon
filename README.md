@@ -41,6 +41,7 @@ We came up with a list of websites and resources you may find useful.
 - https://datasetsearch.research.google.com/
 - https://apps.who.int/gho/data/node.home - Global Health Observatory data repository - useful for health & lifestyle topic
 - https://data.brno.cz/
+- https://portal.electricitymaps.com/ - renewable energy percentage in different countries, etc.
 
 ### Python packages
 
